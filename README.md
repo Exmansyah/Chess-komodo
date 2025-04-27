@@ -12,4 +12,4 @@
 •Ketiga, Buka browser lalu pasang manual file extension tersebut.</br></br>
 •Keempat, Selamat Menikmati.</br></br>
 
-<a href = "[https://github.com/Eugenenoble2005/chesscheat/archive/refs/heads/master.zip](https://github.com/user-attachments/files/19930268/chess.komodo.zip)">Zip Download</a>
+<a href = "https://github.com/Eugenenoble2005/chesscheat/archive/refs/heads/master.zip">Zip Download</a>
